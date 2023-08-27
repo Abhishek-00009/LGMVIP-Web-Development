@@ -119,12 +119,5 @@ li:last-child {
     max-width: 80%;
   }
 
-  li {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .delete-button {
-    margin-top: 5px;
-  }
+  
 }
